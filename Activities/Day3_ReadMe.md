@@ -12,7 +12,7 @@ To that end, you will summarize your work in a presentation containing the follo
 
 - **Red Team**
   - What were the three most critical vulnerabilities you discovered?
-    - Choose the three vulnerabilities that _you_ consider to be most critical.
+  - Choose the three vulnerabilities that _you_ consider to be most critical.
 
 - **Blue Team**
   - What evidence did you find in the logs of the attack?
