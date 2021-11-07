@@ -24,37 +24,21 @@ Run the following commands:
 - `filebeat modules enable apache`
 - `filebeat setup`
 
-The output should look like this:
-
-![](../../../Images/ELk-Setup/filebeat.png)
-
 #### Setup Metricbeat
 
 Run the following commands:
 - `metricbeat modules enable apache`
 - `metricbeat setup`
 
-The output should look like this:
-
-![](../../../Images/ELk-Setup/Metricbeat.png)
-
 #### Setup Packetbeat
 
 Run the following command:
 - `packetbeat setup`
 
-The output should look like this:
-
-![](../../../Images/ELk-Setup/Packetbeat.png)
-
 Restart all 3 services. Run the following commands:
 - `systemctl restart filebeat`
 - `systemctl restart metricbeat`
 - `systemctl restart packetbeat`
-
-These restart commands should not give any output:
-
-![](../../../Images/ELk-Setup/enable.png)
 
 Once all three of these have been enabled, close the terminal window for this machine and proceed with your attack.
 
