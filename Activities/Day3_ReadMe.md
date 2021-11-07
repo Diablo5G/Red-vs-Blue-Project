@@ -25,10 +25,6 @@ To that end, you will summarize your work in a presentation containing the follo
 
 ### Instructions
 
-Open the template on Google Slides: [Project 2 Report Template](https://docs.google.com/presentation/d/1MQjuBqZn7FMg28vGiNeyTH2mpzt8SzUgLGHvCjVJYpM/edit#slide=id.g8798eb4c44_0_0)
-
-- Make a copy by clicking **File** > **Make a Copy**.
-
 - Fill out the prompts on the slides as indicated. Make sure to remove all instructional text and prompts. 
 
 - Some examples of vulnerabilities to look for are:
