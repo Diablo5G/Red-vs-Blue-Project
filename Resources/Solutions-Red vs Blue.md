@@ -31,15 +31,15 @@ The Hyper-V Manager to access the nested machines:
 
 [Project 2 Report](https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/Project%202%20-%20Red%20Team%20Assessment%2C%20Analysis%20n'%20Hardening%20of%20a%20Vulnerable%20System.pdf)
 
-#### Interview Questions Domain : Network Security
+### Interview Questions Domain : Network Security
 
-##### Faulty Firewall
+#### Faulty Firewall
 "Suppose you have a firewall that's supposed to block SSH connections, but instead lets them through. How would you debug it?"
 
-We can debug after performing a generic sweep of the network, which we can dig deeper into specific hosts we find. (The tools for performing generic TCP port scans such as SuperScan, Nessus, or NetScanTools Pro.) Configuring firewalls to look for potentially malicious behavior over time such as the number of packets received in a certain period of time, and have rules in place to cut off attacks if a certain threshold is reached, such as 10 port scans in one minute or 100 consecutive ping (ICMP) requests. Most firewalls and IDSes/IPSes can detect such scanning and cut it off in real-time.
 
 
-##### Unsecured Web Server
+
+#### Unsecured Web Server
 "Suppose you find a server running HTTP on port 80, despite compliance guidelines requiring encryption in motion. What do you do?"
 
 
