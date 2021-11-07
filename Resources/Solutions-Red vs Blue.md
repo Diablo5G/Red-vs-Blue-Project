@@ -1,4 +1,4 @@
-<img align="left" width="420" height="200" src="https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/Red-teaming-blue-teaming-1.jpg">
+<img align="left" width="420" height="210" src="https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/Red-teaming-blue-teaming-1.jpg">
 
 # Unit Red vs. Blue Team Project 
 
@@ -34,7 +34,7 @@ The Hyper-V Manager to access the nested machines:
    - IP Address: `192.168.1.105`
 
 
-<img align="left" width="80" height="60" src="https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/redblue.jpeg">
+<img align="left" width="80" height="70" src="https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/redblue.jpeg">
 
 #### Submission File
 
