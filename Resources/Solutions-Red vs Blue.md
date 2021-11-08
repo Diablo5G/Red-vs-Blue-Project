@@ -1,9 +1,9 @@
 <img align="left" width="420" height="210" src="https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/Red-teaming-blue-teaming-1.jpg">
 
-# Unit Red vs. Blue Team Project 
+# Red vs. Blue Team Project 
 
 Red Team vs. Blue Team scenario,
-As the Red Team, we will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. 
+as the Red Team, we will attack a vulnerable VM within your environment, ultimately gaining root access to the machine. 
 As Blue Team, we will use Kibana to review logs taken during their Day 1 engagement. We'll use the logs to extract hard data and visualizations for report.
 
 
@@ -33,18 +33,12 @@ The Hyper-V Manager to access the nested machines:
 
 ### Interview Questions Domain : Network Security
 
-#### Faulty Firewall
-"Suppose you have a firewall that's supposed to block SSH connections, but instead lets them through. How would you debug it?"
-
-
-
-
-#### Unsecured Web Server
-"Suppose you find a server running HTTP on port 80, despite compliance guidelines requiring encryption in motion. What do you do?"
-
+will update soon
 
 
 ---
+___
+
 
 
 
