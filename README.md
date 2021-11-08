@@ -1,4 +1,4 @@
-## Unit  README: Red Vs. Blue Team Project 
+## Unit Red Vs. Blue Team Project 
 
 ### Unit Description
 
@@ -81,10 +81,6 @@ For more information about these Security+ domains, refer to the following resou
 
 ### Additional Reading and Resources
 
-<details> 
-<summary> Click here to view additional reading materials and resources. </summary>
-</br>
-
 Day 1:
 
 - [Red Team Vs Blue Team](https://securitytrails.com/blog/cybersecurity-red-blue-team)
@@ -99,13 +95,11 @@ Day 2:
 - [Elasticsearch Reference Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 
 
-</details>
-
 ---
 
-### Looking Forward 
+### Red vs. Blue Team Project Solution 
 
-In the next week, we will cover the specialized field of digital forensics. We will cover a new set of skills and tools that allow us to analyze evidence on digital technology after an security incident or crime occurs.  
+Click [HERE](https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/Solutions-Red%20vs%20Blue.md)
 
 ---
 
