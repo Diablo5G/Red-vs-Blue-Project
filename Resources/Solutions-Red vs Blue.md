@@ -33,7 +33,7 @@ The Hyper-V Manager to access the nested machines:
 
 ### Interview Questions Domain : Network Security
 
-will update soon
+will update via Google Doc
 
 
 ---
