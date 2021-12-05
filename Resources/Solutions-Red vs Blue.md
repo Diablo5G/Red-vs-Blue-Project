@@ -31,10 +31,6 @@ The Hyper-V Manager to access the nested machines:
 
 [Project 2 Report](https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/Project%202%20-%20Red%20Team%20Assessment%2C%20Analysis%20n'%20Hardening%20of%20a%20Vulnerable%20System.pdf)
 
-### Interview Questions Domain : Network Security
-
-will update via Google Doc
-
 
 ---
 ___
