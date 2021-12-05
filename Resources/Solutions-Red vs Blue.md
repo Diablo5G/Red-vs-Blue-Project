@@ -33,6 +33,14 @@ The Hyper-V Manager to access the nested machines:
 
 
 ---
+
+#### Special thanks:
+
+© Trilogy Education Services, a 2U, Inc., Instructor Jerry Arnold and TAs; Matt McNew, Jansen Russell, Micheal Stephenson.
+
+© The University of Texas at Austin Boot Camp, The Cybersecurity program.
+
+---
 ___
 
 
