@@ -1,4 +1,4 @@
-## Unit Red Vs. Blue Team Project 
+## Red Vs. Blue Team Project 
 
 ### Unit Description
 
@@ -102,6 +102,6 @@ Day 2:
 Click [HERE](https://github.com/Diablo5G/Red-vs-Blue-Project/blob/Master/Resources/Solutions-Red%20vs%20Blue.md)
 
 ---
-
+---
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
